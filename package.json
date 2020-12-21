@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnclarusway/mern-stack.git"
+    "url": "git+https://github.com/Meltem-Karaagac/MERN_GraphQL.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnclarusway/mern-stack/issues"
+    "url": "https://github.com/Meltem-Karaagac/MERN_GraphQL.git"
   },
-  "homepage": "https://github.com/johnclarusway/mern-stack#readme",
+  "homepage": "https://github.com/Meltem-Karaagac/MERN_GraphQL.git#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
